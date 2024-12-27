@@ -12,7 +12,3 @@
 📫 Want to collaborate or talk about projects? Feel free to reach out!
 
 📧 Email: abhisar7654@gmail.com
-
-🔗 Portfolio: [abhisarsoni-portfolio.netlify.app](https://abhisarsoni-portfolio.netlify.app/)
-
----
